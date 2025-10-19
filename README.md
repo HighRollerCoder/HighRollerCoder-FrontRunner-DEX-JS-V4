@@ -60,6 +60,7 @@ Configure the settings according to your wallet and preferences:
   - `1` = Ethereum  
   - `2` = BNB Chain  
   - `3` = Polygon
+    
 4.-Max Spend = the amount out of you wallet the program is allowed to uses
 
 <img src="./img/image_20251019_095430_c8586c.png" />
